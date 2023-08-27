@@ -104,6 +104,7 @@ hr {
 
 .profile-img {
     width: 12.5rem;
+    border-radius: 100%;
 }
 
 .computer {
